@@ -1,0 +1,16 @@
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+*.iml
+.env
+env.json
+supabase/.temp/
+supabase/.branches/
+
+# Chave de upload da Play Store — guarde em lugar seguro, fora do git
+android/key.properties
+*.jks
+*.keystore
